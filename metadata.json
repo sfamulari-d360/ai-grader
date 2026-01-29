@@ -1,0 +1,5 @@
+{
+  "name": "ai-grader",
+  "description": "A standalone, fail-safe viewer for AI Brand presence reports. Allows manual JSON injection to bypass backend failures.",
+  "requestFramePermissions": []
+}
